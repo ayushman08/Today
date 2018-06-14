@@ -1,0 +1,13 @@
+const COLORS = {
+
+    BACKGROUND_COLOR:"#F6EEEB",
+    BUTTON_COLOR:"#bc9f95",
+    LABEL_TEXT_COLOR:"#84432d",
+    TEXT_COLOR:"#231f20",
+    BUTTON_TWO_COLOR:"#3864a3",
+    BACKGROUND_COLOR_GENERAL:"#F5F5F5"
+
+
+
+}
+export default COLORS;
